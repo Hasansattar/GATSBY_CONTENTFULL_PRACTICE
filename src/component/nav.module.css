@@ -1,0 +1,18 @@
+.Navbar{
+    background-color: black;
+
+    text-align: center;
+    padding: 20px 0;
+
+}
+.Navbar >a{
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.Navbar >a:hover{
+       color: lightskyblue;
+}
